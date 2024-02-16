@@ -3,8 +3,6 @@
 
 **1813amit/1813amit** is a ✨ _special_ ✨ repository
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently looking an opportunity as a FullStack Developer ...
 - 🌱 I’m currently learning Reactjs
 - 👯 I’m looking to collaborate on ...
